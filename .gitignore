@@ -1,0 +1,23 @@
+# Qt Creator user-specific settings
+.qtcreator/
+*.pro.user
+
+# Build output and generated artifacts
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+Makefile*
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# IDE and OS files
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
